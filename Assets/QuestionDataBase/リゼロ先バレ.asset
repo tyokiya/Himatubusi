@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcc36a02a26831d4c847ba3400d54fa1, type: 3}
   m_Name: "\u30EA\u30BC\u30ED\u5148\u30D0\u30EC"
   m_EditorClassIdentifier: 
-  audioClip: {fileID: 0}
+  audioClip: {fileID: 8300000, guid: f49b48c2086028248b8f9d5e0aef5a54, type: 3}
   questionText: "\u3053\u306E\u5148\u30D0\u30EC\u306F\u3069\u308C\uFF1F"
-  choices: "\u30EA\u30BC\u30ED"
+  choices1: "\u30EA\u30BC\u30ED"
   choices2: "\u7981\u66F8\u76EE\u9332"
   choices3: "\u4E00\u9A0E\u5F53\u5343"
   choices4: SAO
